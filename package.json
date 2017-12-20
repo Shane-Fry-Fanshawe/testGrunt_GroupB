@@ -1,0 +1,30 @@
+{
+  "name": "testgrunt",
+  "version": "1.0.0",
+  "description": "test grunt stuff again",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shane-Fry-Fanshawe/testGrunt_GroupB.git"
+  },
+  "keywords": [
+    "grunt",
+    "test"
+  ],
+  "author": "Shane Fry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shane-Fry-Fanshawe/testGrunt_GroupB/issues"
+  },
+  "homepage": "https://github.com/Shane-Fry-Fanshawe/testGrunt_GroupB",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
